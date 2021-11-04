@@ -1,0 +1,16 @@
+.headings{
+    font-size: 30px;
+}
+.optns{
+    font-size: 20px;
+    color: grey;
+    line-height: 2;
+}
+.last_text{
+    /* text-indent: 100px; */
+    /* letter-spacing: 2px; */
+    color: grey;
+}
+.social_icons{
+    font-size: 20px;
+}

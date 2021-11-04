@@ -1,0 +1,20 @@
+.main_blue_div{
+    background-color: #01062E;
+    height: 430px;
+    width: 100%;
+}
+.first_main_text{
+    font-size: 35px;
+}
+.main_search_bar{
+    height: 60px;
+    border-radius: 50px;
+    background-color: white;
+}
+/* .input_srch{
+    height: 40px;
+    margin-top: 10px;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+} */

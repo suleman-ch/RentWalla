@@ -1,0 +1,13 @@
+.social_btns{
+    width: 100%;
+    margin-top: 10px;
+    font-size: 13px;
+    
+}
+.social_imgs{
+    height: 20px;
+    float: left;
+}
+.social_icons:hover{
+    border: 2px solid grey;
+}

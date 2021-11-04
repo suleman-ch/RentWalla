@@ -1,0 +1,41 @@
+.filters_btn{
+    margin-left: 30px;
+}
+.cars_cards{
+    width: 18rem;
+    border-radius: 20px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+  }
+  
+  .card:hover {
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2);
+  }
+
+
+  .toyota{
+      font-size: 13px;
+  }
+  .lst_wala{
+    font-size: 11px;
+  }
+  .rs{
+      font-size: 11px;
+      float: right;
+      margin-top: 7px;
+  }
+  #dropdown-basic{
+    border: 1px solid #AAAAAA;
+    /* padding-left: 7px; */
+  }
+  .dropdown-menu.show{
+    width: 300px;
+    margin-top: 10px;
+
+  }
+  .Apply_btn{
+    width: 120px;
+  }

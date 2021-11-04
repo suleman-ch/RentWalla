@@ -1,0 +1,28 @@
+.pop_cities{
+    font-size: 40px;
+}
+.cities_imgs{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.cities_name{
+    font-size: 20px;
+    margin-left: 10px;
+    font-weight: 500;
+}
+.bcm_ptnr_img{
+    height: 380px;
+    border-radius: 40px;
+}
+.in_text{
+    height: 300px;
+    font-size: 50px;
+}
+.in_text_2{
+    font-size: 22px
+}
+.kkkkkk{
+    height: 350px;
+    padding: 70px;
+}
